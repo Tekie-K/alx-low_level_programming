@@ -1,11 +1,12 @@
 #include "main.h"
 /**
  * main - chekcs for digits 0-9
+ * @c: the character to be checked
  * Return: 1 if true & 0 if false
  */
 int _isdigit(int c)
 {
-	if ( c >= 48 && c < 58)
+	if (c >= 48 && c < 58)
 	{
 		return (1);
 	}
