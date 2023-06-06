@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strspn - a function that searches a string for any of a set of bytes
+ * _strpbrk - a function that searches a string for any of a set of bytes
  * @s: string to be searched
  * @accept: input
  * Return: Always 0 (Success)
